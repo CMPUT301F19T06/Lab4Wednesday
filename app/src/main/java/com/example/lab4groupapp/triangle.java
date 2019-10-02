@@ -1,5 +1,5 @@
 package com.example.lab4groupapp;
 
-public triangle extends Shape{
+public class triangle extends Shape{
     protected int x,y;
 }
